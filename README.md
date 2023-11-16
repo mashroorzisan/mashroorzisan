@@ -1,4 +1,4 @@
-<h1 align="center">Hello universe!! This is Zisan</h1>
+<h1>Hello universe!! This is Zisan</h1>
 ## I'm a Learner, Problem Solver, Physics lover and Teacher!!!
 
 - 🥅 2024 Goals:
