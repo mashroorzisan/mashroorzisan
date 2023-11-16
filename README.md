@@ -27,7 +27,7 @@
 <a href="https://kaggle.com/https://www.kaggle.com/ishtiaquemashroor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/ishtiaquemashroor" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/zews1232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/zews1232" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/zisan.koi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/zisan.koi/" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/ishtiaque_ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/ishtiaque_ahmed" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/ishtiaque_ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/ishtiaque_ahmed" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
