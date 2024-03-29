@@ -4,11 +4,10 @@
 ## 📊 Data Analytics Enthusiast:
 
 - 🥅 2024 Goals:
-  1. Learn Data Structures and Algorithms
-  2. Master Relational Database Management Systems
-  3. Dive into Django Web Framework
-  4. Solve 200+ Leetcode problems
-  5. Earn Certifications:
+  1. Master Relational Database Management Systems
+  2. Dive into Django Web Framework
+  3. Solve 200+ Leetcode problems
+  4. Earn Certifications:
      - [Phitron-Cse Fundamental](https://phitron.io/)
      - [Relational Database Certification-FCC](https://www.freecodecamp.org/learn/relational-database/)
      - [Data Visualization Certification-FCC](https://www.freecodecamp.org/learn/data-visualization/)
@@ -17,8 +16,8 @@
      - [SQL (Advanced) Skills Certification Test](https://www.hackerrank.com/skills-verification/sql_advanced)
      - [SQL (Intermediate) Skills Certification Test](https://www.hackerrank.com/skills-verification/sql_intermediate)
      - [SQL (Basic) Skills Certification Test](https://www.hackerrank.com/skills-verification/sql_basic)
-  6. Freelance as a Developer or Data Analyst on Upwork
-  7. Secure a Job as a Data Analyst or Software Developer
+  5. Freelance as a Developer or Data Analyst on Upwork
+  6. Secure a Job as a Data Analyst or Software Developer
 
 ## ✅ Goals Achieved by 2024:
 - Mastered Data Structures and Algorithms
