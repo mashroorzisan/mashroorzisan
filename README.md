@@ -1,20 +1,31 @@
 <h1>Hello universe!! This is Zisan</h1>
-## I'm a Learner, Problem Solver, Physics lover and Teacher!!!
+## I'm a Learner, Problem Solver, Physics lover, Teacher and most of all a programmer!!!
 
 - 🥅 2024 Goals:
-  01. publish at least one paper
-  02. get a job/inter as a web developer or any realted sort
-  03. learn DSA and Database
-  04. complete these courses perfectly- i. || 100 Days of Python by Angela Yu || ii. || Phitron- Cse Fundamentals ||     
+  1. Learn Data Structure and Algorithms
+  2. Learn Relational Database Management System
+  3. Learn Django
+  4. Solve at least-200 Leetcode problems
+  5. Complete below mentioned certificate course or test or bages.
+     a. Complete [Phitron-Cse Fundamental](https://phitron.io/)
+     b. Complete [Relational database certification-fcc](https://www.freecodecamp.org/learn/relational-database/)
+     c. Complete [Data visualization certification-fcc](https://www.freecodecamp.org/learn/data-visualization/)
+     d. Complete [Data analysis with python certification-fcc](https://www.freecodecamp.org/learn/data-analysis-with-python/)
+     e. Complete [SQL and Relational Databases 101-from cognitiveclass](https://cognitiveclass.ai/courses/learn-sql-relational-databases)
+     f. Give [SQL (Advanced) Skills Certification Test](https://www.hackerrank.com/skills-verification/sql_advanced)
+     g. Give [SQL (Intermediate) Skills Certification Test](https://www.hackerrank.com/skills-verification/sql_intermediate)
+     h. Give [SQL (Basic) Skills Certification Test](https://www.hackerrank.com/skills-verification/sql_basic)
+  6. Start working as a freelance developer or data analyst at upwork
+  7.  Finally get a job as a a Data analyst or a software developer
 
-
-- 🔭 I’m currently working on [Real Estate App](https://github.com/mashroorzisan/real-estate-app)
-
-- 🌱 I’m currently learning **Data structure and algorithm, python, Mongo-db, Redux toolkit**
+- ✅ Goals reached before ending of 2024:
+  1. Learned Data structure and algorithms.
+     
+- 🌱 I’m currently learning **Data analysis:- Excel, mySQL, python, jupyter notebook, data visualization tools, django**
 
 - 👨‍💻 All of my projects are available at [https://mashroorzisan.wixsite.com/my-site](https://mashroorzisan.wixsite.com/my-site)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **Data**
 
 - 📫 How to reach me **zisandue@gmail.com**
 
