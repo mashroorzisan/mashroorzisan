@@ -1,40 +1,44 @@
 <h1 align="center">Hello universe!! This is Zisan</h1>
 <h2 align="center">I'm a Learner, Problem Solver, Physics lover, Teacher and most of all a programmer!!!</h2>
 
-## 🥅 2024 Goals:
-1. Learn Data Structure and Algorithms
-2. Learn Relational Database Management System
-3. Learn Django
-4. Solve at least 200 Leetcode problems
-5. Complete below mentioned certificate course or test or badges.
-   - Complete [Phitron-Cse Fundamental](https://phitron.io/)
-   - Complete [Relational database certification-fcc](https://www.freecodecamp.org/learn/relational-database/)
-   - Complete [Data visualization certification-fcc](https://www.freecodecamp.org/learn/data-visualization/)
-   - Complete [Data analysis with python certification-fcc](https://www.freecodecamp.org/learn/data-analysis-with-python/)
-   - Complete [SQL and Relational Databases 101-from cognitiveclass](https://cognitiveclass.ai/courses/learn-sql-relational-databases)
-   - Give [SQL (Advanced) Skills Certification Test](https://www.hackerrank.com/skills-verification/sql_advanced)
-   - Give [SQL (Intermediate) Skills Certification Test](https://www.hackerrank.com/skills-verification/sql_intermediate)
-   - Give [SQL (Basic) Skills Certification Test](https://www.hackerrank.com/skills-verification/sql_basic)
-6. Start working as a freelance developer or data analyst at upwork
-7. Finally get a job as a Data analyst or a software developer
+## 📊 Data Analytics Enthusiast:
 
-## ✅ Goals reached before the end of 2024:
-- Learned Data structure and algorithms.
+- 🥅 2024 Goals:
+  1. Learn Data Structures and Algorithms
+  2. Master Relational Database Management Systems
+  3. Dive into Django Web Framework
+  4. Solve 200+ Leetcode problems
+  5. Earn Certifications:
+     - [Phitron-Cse Fundamental](https://phitron.io/)
+     - [Relational Database Certification-FCC](https://www.freecodecamp.org/learn/relational-database/)
+     - [Data Visualization Certification-FCC](https://www.freecodecamp.org/learn/data-visualization/)
+     - [Data Analysis with Python Certification-FCC](https://www.freecodecamp.org/learn/data-analysis-with-python/)
+     - [SQL and Relational Databases 101-from Cognitive Class](https://cognitiveclass.ai/courses/learn-sql-relational-databases)
+     - [SQL (Advanced) Skills Certification Test](https://www.hackerrank.com/skills-verification/sql_advanced)
+     - [SQL (Intermediate) Skills Certification Test](https://www.hackerrank.com/skills-verification/sql_intermediate)
+     - [SQL (Basic) Skills Certification Test](https://www.hackerrank.com/skills-verification/sql_basic)
+  6. Freelance as a Developer or Data Analyst on Upwork
+  7. Secure a Job as a Data Analyst or Software Developer
 
-## 🌱 I’m currently learning:
-Data analysis:- Excel, mySQL, python, jupyter notebook, data visualization tools, django
+## ✅ Goals Achieved by 2024:
+- Mastered Data Structures and Algorithms
 
-## 👨‍💻 All of my projects are available at:
-[https://mashroorzisan.wixsite.com/my-site](https://mashroorzisan.wixsite.com/my-site)
+## 🌱 Currently Learning:
+- **Data Analysis Tools**: Excel, MySQL, Python, Jupyter Notebook
+- **Data Visualization Tools**: Tableau, Power BI
+- **Web Development Framework**: Django
+
+## 👨‍💻 Projects:
+- Check out my projects at [My Portfolio](https://mashroorzisan.wixsite.com/my-site)
 
 ## 💬 Ask me about:
-Data
+- Anything related to Data Analytics
 
 ## 📫 How to reach me:
-zisandue@gmail.com
+- Email: zisandue@gmail.com
 
-## 📄 Know about my experiences:
-[Resume](https://drive.google.com/file/d/16Xwpc8m2HGj1vTa7eQ43FV29t2L7CAO6/view?usp=sharing)
+## 📄 Experiences:
+- [Resume](https://drive.google.com/file/d/16Xwpc8m2HGj1vTa7eQ43FV29t2L7CAO6/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -48,28 +52,27 @@ zisandue@gmail.com
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a>
-  <!-- Other languages -->
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>
-  <!-- Frameworks -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
+  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="tableau" width="40" height="40"/> 
   </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Microsoft_Power_BI_logo.svg" alt="powerbi" width="40" height="40"/> 
+  </a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/microsoft_excel/microsoft_excel-icon.svg" alt="excel" width="40" height="40"/> 
+  </a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> 
+  </a>
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> 
+  </a>
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username
