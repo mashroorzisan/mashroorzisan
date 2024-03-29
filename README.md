@@ -28,6 +28,9 @@
 - **Data Visualization Tools**: Tableau, Power BI
 - **Web Development Framework**: Django
 
+## 🧠 Resources:
+- [Transition into data by @katiehuangx](https://github.com/mashroorzisan/Transition-into-Data-Analytics)
+
 ## 👨‍💻 Projects:
 - Check out my projects at [My Portfolio](https://mashroorzisan.wixsite.com/my-site)
 
