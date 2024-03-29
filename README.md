@@ -1,4 +1,4 @@
-<h1 align="center">Hello universe!! This is Zisan</h1>
+<h1 align="center">Hello universe!! This is Ishtiaque Ahmed(zisan)</h1>
 <h2 align="center">I'm a Learner, Problem Solver, Physics lover, Teacher and most of all a programmer!!!</h2>
 
 ## 📊 Data Analytics Enthusiast:
