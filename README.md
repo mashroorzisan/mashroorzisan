@@ -77,4 +77,4 @@
 
 </p>
 
-<p><img align="left" src="![Ishtiaque's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+[Ishtiaque's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
