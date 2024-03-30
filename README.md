@@ -7,8 +7,10 @@
   1. Master Relational Database Management Systems
   2. Dive into Django Web Framework
   3. Solve 200+ Leetcode problems
-  4. Earn Certifications:
+  4. Learn oop with python
+  5. Earn Certifications:
      - [Phitron-Cse Fundamental](https://phitron.io/)
+     - [100 Days of Code: The Complete Python Pro Bootcamp by Angela yu](https://www.udemy.com/course/100-days-of-code/?utm_source=adwords&utm_medium=udemyads&utm_campaign=Python_v.PROF_la.EN_cc.ROW_ti.7380&utm_content=deal4584&utm_term=_._ag_85724077624_._ad_535397279484_._kw__._de_c_._dm__._pl__._ti_dsa-774930046209_._li_9074030_._pd__._&matchtype=&gclid=CjwKCAjw5remBhBiEiwAxL2M98j5_A0yYXUU3YKtKm8jr9DYgaJchdoYvKFAYXaKyQJ-v4xenWxvehoCNEIQAvD_BwE&couponCode=2021PM25)
      - [Relational Database Certification-FCC](https://www.freecodecamp.org/learn/relational-database/)
      - [Data Visualization Certification-FCC](https://www.freecodecamp.org/learn/data-visualization/)
      - [Data Analysis with Python Certification-FCC](https://www.freecodecamp.org/learn/data-analysis-with-python/)
@@ -16,8 +18,8 @@
      - [SQL (Advanced) Skills Certification Test](https://www.hackerrank.com/skills-verification/sql_advanced)
      - [SQL (Intermediate) Skills Certification Test](https://www.hackerrank.com/skills-verification/sql_intermediate)
      - [SQL (Basic) Skills Certification Test](https://www.hackerrank.com/skills-verification/sql_basic)
-  5. Freelance as a Developer or Data Analyst on Upwork
-  6. Secure a Job as a Data Analyst or Software Developer
+  6. Freelance as a Developer or Data Analyst on Upwork
+  7. Secure a Job as a Data Analyst or Software Developer
 
 ## ✅ Goals Achieved by 2024:
 - Mastered Data Structures and Algorithms
