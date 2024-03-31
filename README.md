@@ -27,6 +27,7 @@
      - [Data Science Math skills-Duke University](https://www.coursera.org/learn/datasciencemathskills/home/welcome)
      - [Machine learning-Stanford University](https://www.coursera.org/learn/machine-learning-course/home/welcome)
      - [Intro to ai, ml and dl](https://www.coursera.org/learn/introduction-tensorflow/home/week/1)
+     - [Exploratory Data Analysis with Seaborn](https://www.coursera.org/learn/exploratory-data-analysis-seaborn/home/week/1)
        
   6. Freelance as a Developer or Data Analyst on Upwork
   7. Secure a Job as a Data Analyst or Software Developer
