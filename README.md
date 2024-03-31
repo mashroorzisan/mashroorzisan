@@ -18,6 +18,16 @@
      - [SQL (Advanced) Skills Certification Test](https://www.hackerrank.com/skills-verification/sql_advanced)
      - [SQL (Intermediate) Skills Certification Test](https://www.hackerrank.com/skills-verification/sql_intermediate)
      - [SQL (Basic) Skills Certification Test](https://www.hackerrank.com/skills-verification/sql_basic)
+     - [Introduction to SQL-datacamp](https://campus.datacamp.com/courses/introduction-to-sql/relational-databases?ex=1)
+     - [Programming for everybody-Dr. Chuck-Michigan](https://www.coursera.org/learn/python/home/week/1)
+     - [Python data structure-Dr. Chuck-Michigan](https://www.coursera.org/learn/python-data/home/week/1)
+     - [Applied plotting, charting & data representation in python-Dr. Chuck-Michigan](https://www.coursera.org/learn/python-plotting/home/welcome)
+     - [Applied machine learning in python-Dr. Chuck-Michigan](https://www.coursera.org/learn/python-plotting/home/welcome)
+     - [Introduction to Data science in python-Dr. Chuck-Michigan](https://www.coursera.org/learn/python-data-analysis/home/week/1)
+     - [Data Science Math skills-Duke University](https://www.coursera.org/learn/datasciencemathskills/home/welcome)
+     - [Machine learning-Stanford University](https://www.coursera.org/learn/machine-learning-course/home/welcome)
+     - [Intro to ai, ml and dl](https://www.coursera.org/learn/introduction-tensorflow/home/week/1)
+       
   6. Freelance as a Developer or Data Analyst on Upwork
   7. Secure a Job as a Data Analyst or Software Developer
 
