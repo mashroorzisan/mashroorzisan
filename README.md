@@ -45,7 +45,7 @@
 
 ## 👨‍💻 Projects:
 - Check out my projects at [My Portfolio](https://mashroorzisan.wixsite.com/my-site)
-- Check out my Data science portfolio [Data Science Portfolio](https://datascienceportfolio.io/ishtiaque_mashroor)
+- Check out my Data science portfolio [Data Science Portfolio](https://www.datascienceportfol.io/ishtiaque_mashroor)
 
 ## 💬 Ask me about:
 - Anything related to Data Analytics
