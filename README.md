@@ -1,44 +1,7 @@
 <h1 align="center">Hello universe!! This is Ishtiaque Ahmed(zisan)</h1>
 <h2 align="center">I'm a Learner, Problem Solver, Physics lover, Teacher and most of all a programmer!!!</h2>
 
-## 📊 Data Analytics Enthusiast:
-
-- 🥅 2024 Goals:
-  1. Master Relational Database Management Systems
-  2. Dive into Django Web Framework
-  3. Solve 200+ Leetcode problems
-  4. Learn oop with python
-  5. Earn Certifications:
-     - [Phitron-Cse Fundamental](https://phitron.io/)
-     - [100 Days of Code: The Complete Python Pro Bootcamp by Angela yu](https://www.udemy.com/course/100-days-of-code/?utm_source=adwords&utm_medium=udemyads&utm_campaign=Python_v.PROF_la.EN_cc.ROW_ti.7380&utm_content=deal4584&utm_term=_._ag_85724077624_._ad_535397279484_._kw__._de_c_._dm__._pl__._ti_dsa-774930046209_._li_9074030_._pd__._&matchtype=&gclid=CjwKCAjw5remBhBiEiwAxL2M98j5_A0yYXUU3YKtKm8jr9DYgaJchdoYvKFAYXaKyQJ-v4xenWxvehoCNEIQAvD_BwE&couponCode=2021PM25)
-     - [Relational Database Certification-FCC](https://www.freecodecamp.org/learn/relational-database/)
-     - [Data Visualization Certification-FCC](https://www.freecodecamp.org/learn/data-visualization/)
-     - [Data Analysis with Python Certification-FCC](https://www.freecodecamp.org/learn/data-analysis-with-python/)
-     - [SQL and Relational Databases 101-from Cognitive Class](https://cognitiveclass.ai/courses/learn-sql-relational-databases)
-     - [SQL (Advanced) Skills Certification Test](https://www.hackerrank.com/skills-verification/sql_advanced)
-     - [SQL (Intermediate) Skills Certification Test](https://www.hackerrank.com/skills-verification/sql_intermediate)
-     - [SQL (Basic) Skills Certification Test](https://www.hackerrank.com/skills-verification/sql_basic)
-     - [Introduction to SQL-datacamp](https://campus.datacamp.com/courses/introduction-to-sql/relational-databases?ex=1)
-     - [Programming for everybody-Dr. Chuck-Michigan](https://www.coursera.org/learn/python/home/week/1)
-     - [Python data structure-Dr. Chuck-Michigan](https://www.coursera.org/learn/python-data/home/week/1)
-     - [Applied plotting, charting & data representation in python-Dr. Chuck-Michigan](https://www.coursera.org/learn/python-plotting/home/welcome)
-     - [Applied machine learning in python-Dr. Chuck-Michigan](https://www.coursera.org/learn/python-plotting/home/welcome)
-     - [Introduction to Data science in python-Dr. Chuck-Michigan](https://www.coursera.org/learn/python-data-analysis/home/week/1)
-     - [Data Science Math skills-Duke University](https://www.coursera.org/learn/datasciencemathskills/home/welcome)
-     - [Machine learning-Stanford University](https://www.coursera.org/learn/machine-learning-course/home/welcome)
-     - [Intro to ai, ml and dl](https://www.coursera.org/learn/introduction-tensorflow/home/week/1)
-     - [Exploratory Data Analysis with Seaborn](https://www.coursera.org/learn/exploratory-data-analysis-seaborn/home/week/1)
-       
-  6. Freelance as a Developer or Data Analyst on Upwork
-  7. Secure a Job as a Data Analyst or Software Developer
-
-## ✅ Goals Achieved by 2024:
-- Mastered Data Structures and Algorithms
-
-## 🌱 Currently Learning:
-- **Data Analysis Tools**: Excel, MySQL, Python, Jupyter Notebook
-- **Data Visualization Tools**: Tableau, Power BI
-- **Web Development Framework**: Django
+## 📊 Data Analyst:
 
 ## 🧠 Resources:
 - [Transition into data by @katiehuangx](https://github.com/mashroorzisan/Transition-into-Data-Analytics)
