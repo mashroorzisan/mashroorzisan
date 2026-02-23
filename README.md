@@ -1,58 +1,69 @@
-<h1 align="center">Hello universe!! This is Ishtiaque Ahmed(zisan)</h1>
-<h2 align="center">I'm a Learner, Problem Solver, Physics lover, Teacher and most of all a programmer!!!</h2>
+<h1 align="center">Hi 👋, I'm Ishtiaque Ahmed (Zisan)</h1>
+<h3 align="center">Learner | Problem Solver | Physics Lover | Data Analyst | Programmer</h3>
 
-## 📊 Data Analyst:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Transforming+Data+into+Insights;Solving+Complex+Physics+Problems;Building+Automation+Tools;Always+Learning+Something+New" alt="Typing SVG" />
+</p>
 
-## 🧠 Resources:
-- [Transition into data by @katiehuangx](https://github.com/mashroorzisan/Transition-into-Data-Analytics)
+---
 
-## 👨‍💻 Projects:
-- Check out my projects at [My Portfolio](https://mashroorzisan.wixsite.com/my-site)
-- Check out my Data science portfolio [Data Science Portfolio](https://www.datascienceportfol.io/ishtiaque_mashroor)
+### 🚀 About Me
+- 🔭 I’m currently working on **Data-driven automation and retail analytics.**
+- 🧠 Deeply passionate about **Physics** and how mathematical models explain the universe.
+- 🎓 **Teacher at heart**: I love breaking down complex concepts into simple, actionable steps.
+- ⚡ **Fun fact**: I believe programming is the ultimate tool for a physicist's curiosity.
 
-## 💬 Ask me about:
-- Anything related to Data Analytics
+---
 
-## 📫 How to reach me:
-- Email: zisandue@gmail.com
+### 🛠️ Tech Stack & Tools
 
-## 📄 Experiences:
-- [Resume](https://drive.google.com/file/d/16Xwpc8m2HGj1vTa7eQ43FV29t2L7CAO6/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/mashroor_zisan" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mashroor_zisan" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/www.linkedin.com/in/ishtiaquemashroor" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ishtiaquemashroor" height="30" width="40" /></a>
-  <a href="https://kaggle.com/https://www.kaggle.com/ishtiaquemashroor" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/ishtiaquemashroor" height="30" width="40" /></a>
-  <a href="https://fb.com/https://www.facebook.com/zews1232" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/zews1232" height="30" width="40" /></a>
-  <a href="https://instagram.com/https://www.instagram.com/zisan.koi/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/zisan.koi/" height="30" width="40" /></a>
-  <a href="https://codeforces.com/profile/ishtiaque_ahmed" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/ishtiaque_ahmed" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/excel-4.svg" alt="excel" width="40" height="40"/> 
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/mysql-logo.svg" alt="mysql" width="40" height="40"/> 
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="mysql" width="40" height="40"/> 
-  </a>
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="40" height="40"/> 
-  </a>
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="powerbi" width="40" height="40"/> 
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/373554/django.svg" alt="django" width="40" height="40"/> 
+---
 
+### 📂 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| [**Retail Sales Analytics**](https://github.com/mashroorzisan/Retail-Sales-Analytics-Demographic-Intelligence-PostgreSQL-) | Advanced SQL analysis (Window functions, CTEs) to uncover customer behavior and demographic trends. | PostgreSQL, SQL |
+| [**Shopify to Sheets Bridge**](https://github.com/mashroorzisan/shopify-to-google-sheet-poject) | Automated sync of Shopify store data to Google Sheets for real-time inventory and sales tracking. | Node.js, Shopify API, Google API |
+| [**Course Transcript Scraper**](https://github.com/mashroorzisan/Course_transcript_scraper_with_playwright) | Robust scraper using Playwright to handle infinite-scroll sites and consolidate data into Excel. | Python, Playwright, Pandas |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mashroorzisan&show_icons=true&theme=transparent&hide_border=true&title_color=2196F3&icon_color=2196F3&text_color=ffffff" alt="Ishtiaque's GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mashroorzisan&layout=compact&theme=transparent&hide_border=true&title_color=2196F3&text_color=ffffff" alt="Top Langs" width="48%" />
 </p>
 
-![Ishtiaque's GitHub stats](https://github-readme-stats.vercel.app/api?username=mashroorzisan&show_icons=true&theme=transparent)
+---
 
+### 🌐 Connect with Me
+
+<p align="left">
+<a href="https://linkedin.com/in/ishtiaquemashroor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishtiaquemashroor" height="30" width="40" /></a>
+<a href="https://twitter.com/mashroor_zisan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mashroor_zisan" height="30" width="40" /></a>
+<a href="https://kaggle.com/ishtiaquemashroor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ishtiaquemashroor" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/ishtiaque_ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ishtiaque_ahmed" height="30" width="40" /></a>
+</p>
+
+- 📧 **Email**: zisandue@gmail.com
+- 📝 **Resume**: [View My Resume](https://drive.google.com/file/d/1SIbdVuxeoL5oXiugeiu2L1oMcag9jsxV/view?usp=sharing)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2196F3&height=100&section=footer" />
+</p>
