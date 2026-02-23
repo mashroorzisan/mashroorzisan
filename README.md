@@ -43,12 +43,22 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mashroorzisan&show_icons=true&theme=transparent&hide_border=true&title_color=2196F3&icon_color=2196F3&text_color=ffffff" alt="Ishtiaque's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mashroorzisan&layout=compact&theme=transparent&hide_border=true&title_color=2196F3&text_color=ffffff" alt="Top Langs" width="48%" />
-</p>
+  ### 📊 GitHub Stats                                                                                    
+                                                                                                        
+<p align="center">                                                                                     
+<img                                                                                           
+   src="https://github-readme-stats.vercel.app/api?username=mashroorzisan&show_icons=true&theme=transparent&hide 
+    _border=true&title_color=2196F3&icon_color=2196F3&text_color=ffffff" alt="Ishtiaque's GitHub stats"           
+    width="48%" />                                                                                                
+  <img                                                                                                      
+   src="https://github-readme-stats.vercel.app/api/top-langs/?username=mashroorzisan&layout=compact&theme=transp 
+   arent&hide_border=true&title_color=2196F3&text_color=ffffff" alt="Top Langs" width="48%" />                   
+  <img                                                                                                        src="https://github-readme-stats.vercel.app/api?username=mashroorzisan&show_icons=true&theme=radical"         
+   alt="Ishtiaque's GitHub stats" width="48%" />                                                                 
+  <img                                                                                                      
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=mashroorzisan&layout=compact&theme=radica 
+   l" alt="Top Langs" width="48%" />                                                                             
+</p
 
 ---
 
