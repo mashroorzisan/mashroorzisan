@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ishtiaque Ahmed (Zisan)</h1>
-<h3 align="center">Learner | Problem Solver | Physics Lover | Data Analyst | Programmer</h3>
+<h3 align="center">M.Sc. Applied Statistics and Data Science | Physics Major | Automation | Problem Solver | Story Teller | Executive, Foreign Client @Betopia</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Transforming+Data+into+Insights;Solving+Complex+Physics+Problems;Building+Automation+Tools;Always+Learning+Something+New" alt="Typing SVG" />
