@@ -9,12 +9,11 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently looking for opportunities as a **Data Analyst** — hands-on with SQL, Python (Numpy, pandas, Matplotlib, Seaborn, Plotly, BeautifulSoup, Scrapy, Playwright), Power BI, and Power Query, backed by real healthcare RCM analytics work.
--  Physics graduate who never stopped being curious about how mathematical models explain the world — now pointed at data instead of particles.
+  🔭 Currently looking for opportunities as a **Data Analyst** — hands-on with SQL, Python (Numpy, pandas, Matplotlib, Seaborn, Plotly, BeautifulSoup, Scrapy, Playwright), Power BI, and Power Query, backed by real healthcare RCM analytics work.
   - 📈 **Master Of Science**: Currently pursuing Master's degree in Applied Statistics and Data Science & deepening skills in **Machine Learning, LLMs, and AI Engineering** with dreams of becoming a data scientist one day.
 - 🧠 **Bachelor of Science**: Physics graduate who never stopped being curious about how mathematical models explain the world — now pointed at data instead of particles.
 - 🎓 **Teacher at heart**: I am a math and physics teacher with more than 5 years of experience of tutoring students ranging from class-10 to 12.
-- ⚡ **Fun fact**: I believe programming is the ultimate tool for a physicist's curiosity.
+- ⚡ **Fun fact**: I love flying kites & drones.
 
 ---
 
