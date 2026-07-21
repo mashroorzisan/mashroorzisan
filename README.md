@@ -115,7 +115,7 @@ Delivered automation and web-scraping pipelines for international clients using 
 </p>
 
 - 📧 **Email**: zisandue@gmail.com
-- 📝 **Resume**: [View My Resume](https://drive.google.com/file/d/1SIbdVuxeoL5oXiugeiu2L1oMcag9jsxV/view?usp=sharing)
+- 📝 **Resume**: [View My Resume](https://drive.google.com/file/d/15ZaDUJpVDG0RZ-pLUou52yLcdwATpryX/view?usp=drive_link)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2196F3&height=100&section=footer" />
