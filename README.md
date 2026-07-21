@@ -99,7 +99,7 @@ Delivered automation and web-scraping pipelines for international clients using 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mashroorzisan&show_icons=true&theme=tokyonight&hide_border=true" alt="Ishtiaque's GitHub stats" width="48%" />
+  Ishtiaque's GitHub stats
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mashroorzisan&theme=tokyonight&hide_border=true" alt="Streak Stats" width="60%" />
