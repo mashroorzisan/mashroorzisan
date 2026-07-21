@@ -2,7 +2,7 @@
 <h3 align="center">Data Analyst | SQL • Python • Power BI • Power Query | Healthcare RCM Analytics | Physics Graduate | Executive, Foreign Client @ Betopia Group</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Turning+Raw+EHR+Data+into+Revenue+Insights;Building+SQL-Powered+Analytics+Pipelines;Solving+Complex+Physics+Problems;Automating+the+Boring+Stuff+Away;Always+Learning+Something+New" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Life+Long+Learner;Building+SQL-Powered+Analytics+Pipelines;Automating+the+Boring+Stuff+Away;Always+Learning+Something+New;Love+To+Tell+Stories+With+Data" alt="Typing SVG" />
 </p>
 
 ---
@@ -100,7 +100,6 @@ Delivered automation and web-scraping pipelines for international clients using 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mashroorzisan&show_icons=true&theme=tokyonight&hide_border=true" alt="Ishtiaque's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mashroorzisan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" width="48%" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mashroorzisan&theme=tokyonight&hide_border=true" alt="Streak Stats" width="60%" />
@@ -112,9 +111,7 @@ Delivered automation and web-scraping pipelines for international clients using 
 
 <p align="left">
 <a href="https://www.linkedin.com/in/ishti-m" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishti-m" height="30" width="40" /></a>
-<a href="https://twitter.com/mashroor_zisan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mashroor_zisan" height="30" width="40" /></a>
 <a href="https://kaggle.com/ishtiaquemashroor" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ishtiaquemashroor" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/ishtiaque_ahmed" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ishtiaque_ahmed" height="30" width="40" /></a>
 </p>
 
 - 📧 **Email**: zisandue@gmail.com
