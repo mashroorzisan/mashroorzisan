@@ -112,6 +112,8 @@ Delivered automation and web-scraping pipelines for international clients using 
 <p align="left">
 <a href="https://www.linkedin.com/in/ishti-m" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishti-m" height="30" width="40" /></a>
 <a href="https://kaggle.com/ishtiaquemashroor" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ishtiaquemashroor" height="30" width="40" /></a>
+  <a href="https://leetcode.com/u/_mashroor/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="_mashroor" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/zisandue" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="zisandue" height="30" width="40" /></a>
 </p>
 
 - 📧 **Email**: zisandue@gmail.com
